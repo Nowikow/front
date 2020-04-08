@@ -1,2 +1,2 @@
-# front
-Layouts
+# Front
+Some layout examples from the past
