@@ -1,0 +1,121 @@
+body {
+    background-color: #fafafa;
+    background-size: 1600px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #fff;
+    display: flex;
+    text-transform: uppercase;
+    align-items: flex-start;
+}
+
+.logo {
+    margin: 40px 20% 40px 20%;
+    cursor: pointer;
+}
+
+.cnav {
+    margin: 40px 0 40px 0;
+}
+
+.a1, #none {
+    text-decoration: none;
+    color: #000;
+}
+
+.a1 {
+    margin-right: 50px;
+}
+
+.a1:hover {
+    border-bottom: 3px solid #000;
+}
+
+.im {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 70px;
+}
+
+.cstory {
+    position: relative;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.imgsize {
+    max-width: 530px;
+    max-height: 530px;
+}
+
+.cdesc {
+    display: flex;
+    flex-direction: column;
+    margin-left: 55px;
+    width: 530px;
+    height: 530px;
+}
+
+.up {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.frame {
+    display: flex;
+    justify-content: center;
+}
+
+.p3block {
+    margin-top: 100px;
+    text-align: center;
+    width: 590px;
+}
+
+.page3 {
+    text-transform: uppercase;
+}
+
+.p3desc {
+    text-align: center;
+}
+
+.cworkers {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.card {
+    max-width: 360px;
+}
+
+footer {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.flogo {
+    margin: 70px 0 75px 0;
+    cursor: pointer;
+}
+
+.csmm {
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.copy {
+    text-transform: uppercase;
+    margin-bottom: 45px;
+    text-align: center;
+}

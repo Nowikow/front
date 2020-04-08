@@ -1,0 +1,106 @@
+body {
+    background-color: #fafafa;
+    background-size: 1600px;
+    max-width: 1600px;
+    margin: 0 auto;
+
+}
+
+.nav1 {
+    background-color: #fff;
+    display: flex;
+    text-transform: uppercase;
+    align-items: flex-start;
+}
+
+.logo {
+    margin: 40px 20% 40px 20%;
+    cursor: pointer;
+}
+
+.cnav {
+    margin: 40px 0 40px 0;
+}
+
+.a1, #none {
+    text-decoration: none;
+    color: #000;
+}
+
+.a1 {
+    margin-right: 50px;
+}
+
+.a1:hover {
+    border-bottom: 3px solid #000;
+}
+
+.im {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 70px;
+}
+
+.nav2 {
+    padding: 60px 0 60px 0;
+    text-align: center;
+}
+
+.a2 {
+    margin-left: 40px;
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.mr {
+    margin-bottom: 35px;
+}
+
+.mr1 {
+    margin: 35px 35px;
+}
+
+.cpor {
+    display: flex;
+    justify-content: center;
+}
+
+.ccol {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.more {
+    margin-top: 35px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 70px;
+    cursor: pointer;
+}
+
+
+footer {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flogo {
+    margin: 70px 0 75px 0;
+    cursor: pointer;
+}
+
+.csmm {
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.copy {
+    text-transform: uppercase;
+    margin-bottom: 45px;
+    text-align: center;
+}

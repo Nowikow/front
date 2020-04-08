@@ -1,0 +1,171 @@
+body {
+    background-color: #fafafa;
+    background-size: 1600px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #fff;
+    display: flex;
+    text-transform: uppercase;
+    align-items: flex-start;
+}
+
+.logo {
+    margin: 40px 20% 40px 20%;
+    cursor: pointer;
+}
+
+.cnav {
+    margin: 40px 0 40px 0;
+}
+
+.a1 {
+    text-decoration: none;
+    color: #000;
+    margin-right: 50px;
+}
+
+.a1:hover {
+    border-bottom: 3px solid #000;
+}
+
+.im {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 70px;
+}
+
+.cnt {
+    display: flex;
+    justify-content: center;
+}
+
+.colcnt1 {
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+}
+
+.bpost {
+    padding: 40px 40px; 
+    background-color: #fff;
+    margin: 20px;
+}
+
+.butt {
+    width: 70px;
+    border: 1px solid #000;
+    background: #000;
+    color: #fff;
+}
+
+.by {
+    font-size: 10pt;
+    color: #cccccc;
+    margin-top: -10px;
+}
+
+.tpost {
+    font-size: 10pt;
+}
+
+.pdate {
+    font-size: 10pt;
+    color: #cccccc;
+}
+
+.ic {
+    max-width: 100%;
+}
+
+.ascon {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 300px;
+}
+
+.csearch {
+    background-color: #fff;
+    display: flex;
+    padding: 10px;
+}
+
+.search {
+    border: none;
+    width: 300px;
+}
+
+.search:focus {
+    outline: none;
+}
+
+.click {
+    cursor: pointer;
+}
+
+.ashead {
+    background-color: #ebebeb;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.pd {
+    padding: 10px;
+}
+
+.smcard {
+    background-color: #fff;
+    display: flex;
+    padding: 20px;
+    height: 70px;
+}
+
+.context {
+    margin: 0 0 0 20px;
+    margin-top: -15px;
+}
+
+.more {
+    width: 120px;
+    text-align: center;
+    margin: 30px auto 50px auto;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #959595;
+    font-size: 12pt;
+    cursor: pointer;
+}
+
+
+
+
+
+
+footer {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flogo {
+    margin: 70px 0 75px 0;
+    cursor: pointer;
+}
+
+.csmm {
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.copy {
+    text-transform: uppercase;
+    margin-bottom: 45px;
+    text-align: center;
+}

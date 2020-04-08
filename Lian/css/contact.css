@@ -1,0 +1,161 @@
+body {
+    background-color: #fafafa;
+    background-size: 1600px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #fff;
+    display: flex;
+    text-transform: uppercase;
+    align-items: flex-start;
+}
+
+.logo {
+    margin: 40px 20% 40px 20%;
+    cursor: pointer;
+}
+
+.cnav {
+    margin: 40px 0 40px 0;
+}
+
+.a1 {
+    text-decoration: none;
+    color: #000;
+    margin-right: 50px;
+}
+
+.a1:hover {
+    border-bottom: 3px solid #000;
+}
+
+.im {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 70px;
+}
+
+.concon {
+    display: flex;
+    margin: 90px 0 90px 13%; 
+    align-items: flex-start;
+}
+
+.cc {
+    width: 360px;
+}
+
+.upt {
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+
+.em {
+    margin-top: 0;
+}
+
+.bord {
+    width: 65px;
+    border-bottom:1px solid #000;
+    margin-bottom: 10%
+}
+
+.cmes {
+        display: flex;
+        flex-direction: column;
+}
+
+.name, .emaie {
+    width: 360px;
+    height: 40px;
+    border: 1px solid #ebebeb;
+    font-size: 14px;
+}
+
+.message {
+    margin: 35px 0 35px 0;
+    width: 732px;
+    height: 150px;
+    border: 1px solid #ebebeb;
+}
+
+.butt {
+    text-transform: uppercase;
+    width: 150px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+
+.im {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.oval {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 70px 0 70px 0;
+}
+
+.tval {
+    text-transform: uppercase;
+}
+
+.cent {
+    display: flex;
+    justify-content: center;
+}
+.texval {
+    margin-top: 0;
+    width: 600px;
+}
+
+.cprops {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 65px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.tprops {
+    text-transform: uppercase;
+}
+
+.teprops {
+    width: 350px;
+}
+
+footer {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flogo {
+    margin: 70px 0 75px 0;
+    cursor: pointer;
+}
+
+.csmm {
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.copy {
+    text-transform: uppercase;
+    margin-bottom: 45px;
+    text-align: center;
+}
